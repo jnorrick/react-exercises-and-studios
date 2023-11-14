@@ -3,6 +3,7 @@
    font-size: x-large;
    font-family: 'Courier New', Courier, monospace;
    font-style: italic;
+   text-align: left;
 }
 
 .choresHeading {
@@ -10,4 +11,5 @@
    font-size: xx-large;
    font-family: 'Courier New', Courier, monospace;
    text-decoration-line: underline;
+   text-align: left
 }
