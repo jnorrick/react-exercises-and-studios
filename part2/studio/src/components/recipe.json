@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Buffalo Chicken Dip",
+     "author": "Frank's Red Hot Sauce",
+     "description": "Buffalo chicken dip isnt buffalo chicken dip if it doesnt use Franks RedHot",
+     "website": "https://www.franksredhot.com/en-us/recipes/franks-redhot-buffalo-chicken-dip",
+     "recipeImage": "https://d1e3z2jco40k3v.cloudfront.net/-/media/franks20/recipe-detail-banner/buffalo-chicken-dip-recipe-800x800.webp?h=800&amp;la=en-us&amp;rev=-1&amp;hash=27208B78C864FABB2717BD326EF5C9EE",
+     "authorImage": "https://embed.widencdn.net/img/mccormick/q9cadt0e6z/400x600px/franks_redhot_original_united_states.png?crop=true&u=1o4a15",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "Shredded Chicken",
+       "Frank's Red Hot Sauce",
+       "Cream Cheese",
+       "Ranch Dressing",
+       "Blue Cheese"
      ]
    }
  ]
