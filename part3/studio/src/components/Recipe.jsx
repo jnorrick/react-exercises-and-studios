@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://www.franksredhot.com/en-us";
+   let authorPhoto = "https://shop.mccormick.com/cdn/shop/products/00041500805023_A1C1_master.jpg?v=1612381003";
+   let authorName = "Frank's Red Hot Sauce";
 
    return (
       <div>
@@ -17,7 +17,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["Shredded cooked chicken", "Cream cheese", "Frank's Red Hot Sauce", "Ranch Dressing", "Blue cheese crumbles"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
