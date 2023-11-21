@@ -2,7 +2,18 @@ import { useState } from 'react';
 
 export default function BoardAssignment () {
    const boards = [
-      {}
+      {
+         label: "",
+         value: ""
+      },
+      {
+         label: "",
+         value: ""
+      },
+      {
+         label: "",
+         value: ""
+      }
    ];
 
    const handleChange = (event) => {
